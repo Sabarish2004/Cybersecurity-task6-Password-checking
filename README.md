@@ -18,6 +18,3 @@ To understand the characteristics of strong passwords, evaluate their strength u
 - Strong passwords are long, complex, and unique.
 - Common attacks like brute force and dictionary attacks can be avoided with proper password hygiene.
 - Using password managers and enabling multi-factor authentication improves security.
-
-## 🔗 Submission
-GitHub Repository: [Your GitHub Link Here]
