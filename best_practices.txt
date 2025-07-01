@@ -1,0 +1,8 @@
+1. Use a long password (at least 12 characters).
+2. Include uppercase letters, lowercase letters, numbers, and symbols.
+3. Avoid using personal information like your name or birthdate.
+4. Do not reuse passwords across multiple accounts.
+5. Use passphrases made up of random words (e.g., Red!Tiger_Cupboard2025).
+6. Use a trusted password manager to store and generate passwords.
+7. Regularly update your passwords, especially after a breach.
+8. Enable multi-factor authentication (MFA) wherever possible.
