@@ -10,7 +10,6 @@ To understand the characteristics of strong passwords, evaluate their strength u
 
 ## 📂 Files Included
 - `passwords.txt` – Contains a list of test passwords.
-- `password_strength_results.txt` – Recorded scores and feedback for each password.
 - `password_attacks.txt` – Summary of common password attacks.
 - `best_practices.txt` – Tips for creating strong passwords.
 
